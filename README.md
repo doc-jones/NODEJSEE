@@ -1,2 +1,2 @@
 # NODEJSEE
-Bare Bones Emitter just to learn what the emitter does.
+Bare Bones Emitter just to learn how the emitter works.
